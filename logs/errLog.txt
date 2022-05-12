@@ -1,0 +1,5 @@
+20220511	13:09:32	09e049a3-e507-4df0-bb03-e68bf31787f1	Error: ENOENT: no such file or directory, stat 'C:\Users\darie\DarienAndersonAPI\src\views\404.html'
+20220511	13:09:32	23216cf6-b7c4-4ea9-9775-48bf2396dfc5	Error: ENOENT: no such file or directory, stat 'C:\Users\darie\DarienAndersonAPI\src\views\404.html'
+20220511	13:11:08	a4e2c165-44a5-4db9-aff0-1cf6ec7d71c9	Error: ENOENT: no such file or directory, stat 'C:\Users\darie\DarienAndersonAPI\src\public\index.html'
+20220511	13:11:08	5726367a-b746-49a1-8091-a9d57d751f9c	Error: ENOENT: no such file or directory, stat 'C:\Users\darie\DarienAndersonAPI\src\public\index.html'
+20220511	16:44:00	31b329c4-484a-4bbb-94a0-b70e49579a01	Error: This is a forced error.
